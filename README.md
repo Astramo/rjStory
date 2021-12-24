@@ -1,6 +1,6 @@
 # rj_stories
 
-A new Flutter project.
+A new Version of Flutter stories
 
 ## Getting Started
 
